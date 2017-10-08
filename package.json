@@ -13,6 +13,7 @@
   "author": "Saqib Naveed",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.1"
+    "express": "^4.16.1",
+    "socket.io": "^1.4.8"
   }
 }
